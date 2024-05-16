@@ -1,0 +1,20 @@
+.umlbox {
+  background: white;
+}
+.umlbox .tittle {
+  background: skyblue;
+}
+
+.linea {
+  border: 2px solid black;
+}
+
+.lina-abajo-gruesa {
+  border-bottom: 2px solid black;
+}
+
+.lina-abajo {
+  border-bottom: 1px solid black;
+}
+
+/*# sourceMappingURL=styles.css.map */
